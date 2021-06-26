@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginHorizontal="20dp"
+    android:layout_gravity="center"
+    android:background="@color/purple"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="?actionBarSize"
+        android:background="@color/purple_200">
+        <TextView
+            android:id="@+id/tv_tambah"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tambah Kegiatan"
+            android:textStyle="bold"
+            android:layout_centerInParent="true"
+            android:textSize="20dp"/>
+
+        <ImageButton
+            android:id="@+id/tbl_keluar"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:padding="20dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:src="@drawable/close"
+            android:background="@android:color/transparent"/>
+
+
+
+    </RelativeLayout>
+
+    <EditText
+        android:id="@+id/txt_tambah"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:textColor="@color/black"/>
+    <Button
+        android:id="@+id/tbl_tambah"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/purple_200"
+        android:text="tambah"
+        android:layout_gravity="end"
+        android:layout_margin="20dp"
+        />
+
+</LinearLayout>

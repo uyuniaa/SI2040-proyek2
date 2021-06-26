@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "729306386549",
+    "firebase_url": "https://myfirebase-b620d-default-rtdb.firebaseio.com",
+    "project_id": "myfirebase-b620d",
+    "storage_bucket": "myfirebase-b620d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729306386549:android:73b88bced3805b0c78283c",
+        "android_client_info": {
+          "package_name": "com.example.myfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729306386549-32qiarb7h7ol7768emfdh3piarn4o5q6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBanRk9hqtc-bt1ECZTlvUaA2tbSjDSXRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729306386549-32qiarb7h7ol7768emfdh3piarn4o5q6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729306386549:android:c0c2323a9355ec3f78283c",
+        "android_client_info": {
+          "package_name": "com.my.notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729306386549-32qiarb7h7ol7768emfdh3piarn4o5q6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBanRk9hqtc-bt1ECZTlvUaA2tbSjDSXRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729306386549-32qiarb7h7ol7768emfdh3piarn4o5q6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729306386549:android:a24c38c0984981b678283c",
+        "android_client_info": {
+          "package_name": "com.thenotes.notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729306386549-32qiarb7h7ol7768emfdh3piarn4o5q6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBanRk9hqtc-bt1ECZTlvUaA2tbSjDSXRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729306386549-32qiarb7h7ol7768emfdh3piarn4o5q6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
